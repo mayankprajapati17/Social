@@ -54,6 +54,4 @@ Contributions are welcome! If you'd like to contribute to SocialDApp, please for
 
 This project is licensed under the MIT License.
 
-## Authors
 
-* Nikhil Raikwar
